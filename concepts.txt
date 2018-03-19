@@ -13,3 +13,10 @@ Benefits of Continuous Delivery
 - Better security
 - Rhythm of practice
 - More time to be productive
+
+Tools to be used 
+- Version Control - Github/SVN
+- Build Tool/System - Jenkins
+- Artifacts/Artifact Repo - Nexus
+- Testing - Unit, Integration E2E Acceptance
+- Deployment Server/Tool - Chef
